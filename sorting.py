@@ -39,7 +39,6 @@ print("----------new list-------------")
 print(newArray)
 print("----------step = " , step , "-------------\n")
 
-newArray = createRandomList(20)
 print("----------insertionSort----------------")
 print("----------old list-------------")
 print(newArray)
